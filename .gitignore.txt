@@ -1,5 +1,0 @@
-Lib/
-etc/
-Include/
-Scripts/
-share/
