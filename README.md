@@ -1,4 +1,5 @@
-Introduction:
+# Introduction:
+
 This Jupyter Notebook explores a dataset containing information about Airbnb listings in Cape Town. The dataset comprises various attributes such as listing ID, host details, geographical coordinates, room type, pricing, availability, and review-related metrics. With over 22,000 entries and 18 columns, the dataset offers a comprehensive overview of the Airbnb market in Cape Town.
 
 In this project, we aim to analyze and understand the dynamics of the Airbnb market in Cape Town. By leveraging the power of Python and the Pandas library, we will delve into the dataset to uncover insights, trends, and patterns that can provide valuable information for both hosts and guests alike.
