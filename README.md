@@ -7,3 +7,5 @@ In this project, we aim to analyze and understand the dynamics of the Airbnb mar
 Our analysis will cover a wide range of aspects, including pricing trends, popularity of room types, host behaviors, geographical distribution of listings, and more. Through exploratory data analysis (EDA), visualization, and statistical techniques, we will gain deeper insights into the Airbnb ecosystem in the area.
 
 Ultimately, this project seeks to offer actionable insights and recommendations for various stakeholders, including Airbnb hosts, prospective guests, and policymakers, to make informed decisions and enhance their experiences within the Airbnb community.
+
+![Unique Airbnbs in Cape Town](unique_airbnbs_cape_town_2023.png)
